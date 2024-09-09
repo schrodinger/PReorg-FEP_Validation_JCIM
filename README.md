@@ -4,6 +4,6 @@ Data for "Leveraging the Thermodynamics of Protein Conformations in Drug Discove
 ### ABFEP
 Input structures for ABFEP calculations.
 ### PReorg
-Input structures for PReorg calculations
+Input structures for PReorg calculations.
 ### PReorgValidationManuscript.csv
-Raw data for Fig.2 and Fig.3
+Raw data for Fig.2 and Fig.3.
