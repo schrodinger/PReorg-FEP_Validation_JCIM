@@ -54,3 +54,7 @@ HSP90 5J9X,5J9X,-12.5,0.1,-10.6,,1.9,1.9,0.7,Merck2017 Cmpd16,CCCCN(C)C(=O)c1c(O
 HSP90 5J20,5J20,-14.0,0.4,-12.5,,2.1,1.9,0.7,Merck2017 Cmpd20,o1cccc1CN(C)C(=O)c2c(O)cc(O)c(c2)-c3n[nH]c(=O)n3-c4c(F)cccc4
 TEM  1PZP,FTA,-11.63,0.18,-4.54,0.05,7.09,8.93,1.38,,N#C/C(=C\Nc1ccc(Nc2ccccc2)cc1)c1nnn[n-]1
 anti-MTX 3QXT,MTX,-9.07,0.27,-7.10,0.08,1.97,1.77,0.64,,[O-]C(=O)CC[C@@H](C([O-])=O)NC(=O)c1ccc(cc1)N(C)Cc(n2)cnc(c23)nc(N)nc3N
+ABL 4TWP,AXI,,,-9.5,1.2,,4.5,1.2,,CNC(=O)c1c(cccc1)Sc(cc2)cc(c23)[nH]nc3/C=C/c4ccccn4
+ABL 4XLI,1N1,-16.4,0.3,-12.8,1.9,,0.0,0.0,,c1ccc(Cl)c(c1C)NC(=O)c2cnc(s2)Nc(nc3C)cc(n3)N4CC[NH+](CC4)CCO
+ABL 2F4J,VX6,-14.8,0.3,-10.4,1.2,,4.5,1.2,,C1CC1C(=O)Nc2ccc(cc2)Sc(n3)nc(N4CC[NH+](C)CC4)cc3Nc(n[nH]5)cc5C
+ABL 2QOH,P3Y,-17.0,0.1,-10.5,,,4.5,1.2,,CN(C)C(=O)c1cc(cnc1)-c(c2)cnc(c23)[nH]cc3-c4c(OC)cccc4
